@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=lukasmatias-dev&label=VISITAS+AO+PERFIL&color=7C3AED&style=for-the-badge" alt="Visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=lukasmatias-dev&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Contador de visitas" />
 
 </div>
 
