@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lukas-matias-01201019b">
+<a href="https://www.linkedin.com/in/lukasmatias-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:lukas.m4tias@gmail.com">
